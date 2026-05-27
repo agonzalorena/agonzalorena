@@ -1,5 +1,5 @@
 <h2>Hi, I'm Agustin Gonzalorena!</h2>
-<img align="right" src="https://user-images.githubusercontent.com/108542215/236872799-f46ceb31-fe98-4161-be12-7dc37267c665.gif" width="230">
+<img align="right" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXJjeHRpODB0djRsbDExYzJiZzM0a2M4azVnbzA1bHhxMXJ6N3E4aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/h408T6Y5GfmXBKW62l/giphy.gif" width="230">
 
 <p>Software Developer</p>
 <p>Education: <em>Tecnicatura Universitaria en Desarrollo de Aplicaciones Informáticas</em> (University Technician in Software Development) at <a href="https://exa.unicen.edu.ar/tudai/">UNICEN</a></p>
